@@ -1,0 +1,17 @@
+
+body {
+background-color: #488ccd;
+width: 800px;
+color: white;
+/* alul fölül 0 margó, jobbra balra automatikus */
+margin: 0 auto;
+/* padding belső margő, befelé tolja a tartalmat */
+padding: 50px;
+}
+
+.page-title {
+    font-size: 50px;
+    font-weight: 200;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
